@@ -1,0 +1,4 @@
+number1 =int(input("Put your first number : "))
+number2 = int(input("Put your second nummber : "))
+total= number1 + number2
+print("Your number is",total)
