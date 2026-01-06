@@ -1,0 +1,2 @@
+number = input("Put your number bro: ")
+print("Your Number is " + number + " bro")
