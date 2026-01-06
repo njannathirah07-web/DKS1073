@@ -1,0 +1,8 @@
+distance = float(input("Distance (in km): "))
+time = float(input("Time (in hours): "))
+
+if time == 0:
+    print("Time cannot be zero.")
+else:
+    average_speed = distance / time
+    print("Average speed:", average_speed, "km/h")
