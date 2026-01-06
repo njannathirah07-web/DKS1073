@@ -1,0 +1,4 @@
+length = float(input("Put your rectangle's length : "))
+width = float(input ("Put your rectangle's width : "))
+total= length * width 
+print("The area of rectangle is", total)
