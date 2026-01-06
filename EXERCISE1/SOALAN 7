@@ -1,0 +1,3 @@
+celcius = float(input("Put the celcius: "))
+total = celcius * 9/5 + 32
+print("The fahrenheit is ", total)
