@@ -1,0 +1,3 @@
+radius = float(input("Put your radius of a circle: "))
+total = 3.142*radius*radius 
+print("The area of the circle is",total)
