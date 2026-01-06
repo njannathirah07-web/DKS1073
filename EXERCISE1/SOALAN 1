@@ -1,0 +1,2 @@
+number = input("Put your number : ")
+print("Your Number is " + number)
