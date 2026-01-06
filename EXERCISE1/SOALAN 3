@@ -1,0 +1,10 @@
+number1 =int(input("Put your first number : "))
+number2 = int(input("Put your second nummber: "))
+total= number1 + number2
+print("Your sum number is",total)
+#the difference 
+difference = number1 - number2
+print("Your difference number is",difference)
+#the product 
+product = number1 * number2
+print("Your product number is",product)
